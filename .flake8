@@ -1,0 +1,6 @@
+[flake8]
+exclude = .git,.nox,venv
+max-line-length = 100
+select = E,F,W,C
+ignore=W503,F401,E501
+

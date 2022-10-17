@@ -1,0 +1,30 @@
+# 1. Header Part
+# We're following angular-style pattern `<type>(<scope>): <subject>`
+# check .commitlint.config.js for validate <type>/<scope>
+# |<----          Using a Maximum Of 72 Characters                ---->|
+
+# 2. Body Part
+# Explain why this change is being made
+# |<----   Try To Limit Each Line to a Maximum Of 72 Characters   ---->|
+
+# Provide links or keys to any relevant tickets, articles or other resources
+# Use issues and merge requests' full URLs instead of short references,
+# as they are displayed as plain text outside of GitLab/GitHub
+
+# 3. Footer Part
+
+# --- COMMIT END ---
+# --------------------
+# Remember to
+#    Don't capitalize the header line
+#    Use the imperative mood in the subject line
+#    Do not end the subject line with a period
+#    Subject must contain at least 3 words
+#    Separate subject from body with a blank line
+#    Commits that change 30 or more lines across at least 3 files should
+#    Describe these changes in the commit body
+#    Do not use Emojis
+#    Use the body to explain what and why vs. how
+#    Can use multiple lines with "-" for bullet points in body
+#    For more information: https://cbea.ms/git-commit/
+# --------------------
